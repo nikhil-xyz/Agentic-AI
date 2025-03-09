@@ -1,0 +1,8 @@
+phidata
+duckduckgo-search
+groq
+yfinance
+duckduckgo-search
+fastapi
+python-multipart
+uvicorn
